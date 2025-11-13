@@ -2,7 +2,8 @@
 
 ## 📋 프로젝트 개요
 
-항공기 터빈 엔진의 **잔여 수명(RUL, Remaining Useful Life)** 을 예측하는 머신러닝 프로젝트입니다. NASA의 C-MAPSS 데이터셋을 사용하여 예지 정비(Predictive Maintenance)를 위한 최적 모델과 전처리 전략을 체계적으로 탐색
+항공기 터빈 엔진의 **잔여 수명(RUL, Remaining Useful Life)** 을 예측하는 머신러닝 프로젝트 <br>
+NASA의 C-MAPSS 데이터셋을 사용하여 예지 정비(Predictive Maintenance)를 위한 최적 모델과 전처리 전략을 체계적으로 탐색
 
 ---
 
