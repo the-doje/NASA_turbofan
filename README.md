@@ -52,14 +52,14 @@ Branch 4: Hyperparameter Tuning (하이퍼파라미터 튜닝)
 ## 📁 프로젝트 구조
 
 ```
-├── branch1_FD001.ipynb          # Branch 1: FD001 모델 비교 (17 cells)
-├── branch1_FD004.ipynb          # Branch 1: FD004 모델 비교 (17 cells)
-├── branch2_FD001.ipynb          # Branch 2: FD001 전처리 실험 (26 cells)
-├── branch2_FD004.ipynb          # Branch 2: FD004 전처리 실험 (26 cells)
-├── branch3_FD001.ipynb          # Branch 3: FD001 스케일러 비교 (24 cells)
-├── branch3_FD004.ipynb          # Branch 3: FD004 스케일러 비교 (24 cells)
-├── branch4_FD001.ipynb          # Branch 4: FD001 하이퍼파라미터 튜닝 (23 cells)
-├── branch4_FD004.ipynb          # Branch 4: FD004 하이퍼파라미터 튜닝 (23 cells)
+├── branch1_FD001.ipynb          # Branch 1: FD001 모델 비교
+├── branch1_FD004.ipynb          # Branch 1: FD004 모델 비교
+├── branch2_FD001.ipynb          # Branch 2: FD001 전처리 실험
+├── branch2_FD004.ipynb          # Branch 2: FD004 전처리 실험
+├── branch3_FD001.ipynb          # Branch 3: FD001 스케일러 비교
+├── branch3_FD004.ipynb          # Branch 3: FD004 스케일러 비교
+├── branch4_FD001.ipynb          # Branch 4: FD001 하이퍼파라미터 튜닝
+├── branch4_FD004.ipynb          # Branch 4: FD004 하이퍼파라미터 튜닝
 └── README.md                    # 프로젝트 문서
 ```
 
